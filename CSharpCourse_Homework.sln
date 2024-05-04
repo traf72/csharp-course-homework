@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_1", "Lesson6_1\Lesson6_1.csproj", "{9B7E8D6F-E474-400A-A142-A5740EDD8C53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_006_1", "Lesson_006_1\Lesson_006_1.csproj", "{9B7E8D6F-E474-400A-A142-A5740EDD8C53}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_2", "Lesson6_2\Lesson6_2.csproj", "{2AAF091F-6DCC-40B9-B542-2C32AAF51000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_006_2", "Lesson_006_2\Lesson_006_2.csproj", "{2AAF091F-6DCC-40B9-B542-2C32AAF51000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8", "Lesson8\Lesson8.csproj", "{704A9554-37B9-4EE2-96CF-DB451A95CFFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_008", "Lesson_008\Lesson_008.csproj", "{704A9554-37B9-4EE2-96CF-DB451A95CFFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
