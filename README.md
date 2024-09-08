@@ -1,1 +1,1 @@
-# csharp-course-homework
+# The project with homework for the C# course
